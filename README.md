@@ -1,4 +1,4 @@
-# LCD System Monitor
+# Cyber System Monitor
 
 Display and monitor system information on an external, microcontroller-driven 16x2 LCD.
 
