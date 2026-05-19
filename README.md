@@ -26,7 +26,7 @@ Works on all Linux or BSD machines out of the box.
 * 1x Arduino Nano + USB cable
 * 1x [16x2 LCD] I2C controller version (other displays also) !in progress
 * 1x photodiode
-* 3x 220 Ohm resistor
+* 4x 220 Ohm resistor
 * RGB diode !in testing
 
 ## Setup
